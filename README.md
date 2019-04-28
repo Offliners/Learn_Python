@@ -1,8 +1,8 @@
 # Learn Python
   * [001-helloworld](code/001.py)
   * [002-variable](code/002.py)
-  * [003.py](code/003.py)
-  * [004.py](code/004.py)
+  * [003-var-type.py](code/003.py)
+  * [004-complex-assignment.py](code/004.py)
   * [005.py](code/005.py)
   * [006.py](code/006.py)
   * [007.py](code/007.py)

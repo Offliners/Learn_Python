@@ -9,7 +9,7 @@
   * [008-complex.py](code/008.py)
   * [009-assignment.py](code/009.py)
   * [010-multiline.py](code/010.py)
-  * [011.py](code/011.py)
+  * [011-string-index.py](code/011.py)
   * [012.py](code/012.py)
   * [013.py](code/013.py)
   * [014.py](code/014.py)

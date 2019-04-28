@@ -1,6 +1,6 @@
 # Learn Python
-  * 001-helloworld
-  * 002-variable
+  * [001-helloworld](code/001.py)
+  * [002-variable]((code/002.py))
 
 # IDE
 

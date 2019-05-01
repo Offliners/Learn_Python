@@ -13,4 +13,4 @@ d1 = {} # dictionary
 d2 = dict()
 
 set1 = set() # set
-# set2 = {} # n2, as it is a dict
+# set2 = {} # no, as it is a dict

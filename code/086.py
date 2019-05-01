@@ -4,7 +4,7 @@ class Animal:
     def talk(self):
         print("I am an animal")
 
-# creating an object or an class
+# creating an object or an instance
 
 Animal1 = Animal()
 Animal1.talk()

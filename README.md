@@ -118,7 +118,8 @@
   * [117-json.py](code/117.py)
   * [118-raw-strings.py](code/118.py)
   * [119-comprehension.py](code/119.py)
-  * [120.py](code/120.py)
+  * [120-with-class.py](code/120.py)
+  * [121-init-del.py](code/121.py)
 
 ## IDE
  * Visual stdio code : https://code.visualstudio.com/download

@@ -120,6 +120,7 @@
   * [119-comprehension.py](code/119.py)
   * [120-with-class.py](code/120.py)
   * [121-init-del.py](code/121.py)
+  * [122-sys.py](code/122.py)
 
 ## IDE
  * Visual stdio code : https://code.visualstudio.com/download

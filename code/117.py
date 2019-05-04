@@ -3,7 +3,7 @@
 import json
 
 # 1. Open the file
-with open("Data/test.json") as f:
+with open("code/Data/test.json") as f:
     # 2. Parse JSON
     data = json.loads(f.read())
 

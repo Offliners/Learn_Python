@@ -121,7 +121,8 @@
   * [120-with-class.py](code/120.py)
   * [121-init-del.py](code/121.py)
   * [122-sys.py](code/122.py)
-
+  * [123-stderr.py](code/123.py)
+  
 ## IDE
  * Visual stdio code : https://code.visualstudio.com/download
  * Python Version : `3.6.8`

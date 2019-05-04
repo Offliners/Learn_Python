@@ -127,7 +127,7 @@
   
 ### Project
   * [001-game.py](Project/001.py)
-  * [002-zellercongruence](Project/002.py)
+  * [002-zellercongruence.py](Project/002.py)
 
 ## IDE
  * Visual stdio code : https://code.visualstudio.com/download

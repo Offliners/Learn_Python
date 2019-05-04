@@ -130,6 +130,7 @@
   * [002-zellercongruence.py](Project/002.py)
   * [003-textcount.py](Project/003.py)
   * [004-decimaltobinary.py](Project/004.py)
+  * [005-leapyear.py](Project/005.py)
 
 ## IDE
  * Visual stdio code : https://code.visualstudio.com/download

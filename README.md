@@ -125,7 +125,7 @@
   * [123-stderr.py](code/123.py)
   
 ### Project
-  * [001.py]
+  * [001-game.py](Project/001.py)
 
 ## IDE
  * Visual stdio code : https://code.visualstudio.com/download

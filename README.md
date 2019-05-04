@@ -129,6 +129,7 @@
   * [001-game.py](Project/001.py)
   * [002-zellercongruence.py](Project/002.py)
   * [003-textcount.py](Project/003.py)
+  * [004-decimaltobinary.py](Project/004.py)
 
 ## IDE
  * Visual stdio code : https://code.visualstudio.com/download

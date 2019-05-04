@@ -132,6 +132,7 @@
   * [004-decimaltobinary.py](Project/004.py)
   * [005-leapyear.py](Project/005.py)
   * [006-filetextcount.py](Project/006.py)
+  * [007-quadraticequation.py](Project/007.py)
 
 ## IDE
  * Visual stdio code : https://code.visualstudio.com/download

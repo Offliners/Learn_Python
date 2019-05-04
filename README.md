@@ -138,9 +138,8 @@
 ## IDE
  * Visual stdio code : https://code.visualstudio.com/download
  * Python Version : `3.6.8`
-## Reference
-https://github.com/ash/amazing_python3  
-
+ 
+## Reference 
 https://www.instagram.com/amazing_python3/
 
 https://www.instagram.com/python_scripts/

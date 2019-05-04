@@ -1,4 +1,5 @@
 # Learn Python
+### Code
   * [001-helloworld](code/001.py)
   * [002-variable](code/002.py)
   * [003-var-type.py](code/003.py)
@@ -123,6 +124,9 @@
   * [122-sys.py](code/122.py)
   * [123-stderr.py](code/123.py)
   
+### Project
+  * [001.py]
+
 ## IDE
  * Visual stdio code : https://code.visualstudio.com/download
  * Python Version : `3.6.8`

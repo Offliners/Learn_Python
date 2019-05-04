@@ -1,6 +1,6 @@
 # write to a text file
 
-f = open("Data/t.txt","w")
+f = open("code/Data/t.txt","w")
 # or:
 # f = open("Data/t.txt",mode = "w")
 # w = create and write

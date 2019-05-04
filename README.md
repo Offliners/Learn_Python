@@ -131,6 +131,7 @@
   * [003-textcount.py](Project/003.py)
   * [004-decimaltobinary.py](Project/004.py)
   * [005-leapyear.py](Project/005.py)
+  * [006-filetextcount.py](Project/006.py)
 
 ## IDE
  * Visual stdio code : https://code.visualstudio.com/download

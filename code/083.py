@@ -1,6 +1,6 @@
 # reading from a text file
 
-for str in open("Data/data.txt"):
+for str in open("code/Data/data.txt"):
     print(str, end="")
 
 # we should not print the

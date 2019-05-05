@@ -135,6 +135,7 @@
   * [007-quadraticequation.py](Project/007.py)
   * [008-factorsofnumber.py](Project/008.py)
   * [009-evenwords.py](Project/009.py)
+  * [010-findpowerset.py](Project/010.py)
 
 ## IDE
  * Visual stdio code : https://code.visualstudio.com/download

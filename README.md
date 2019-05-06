@@ -125,6 +125,7 @@
   * [123-stderr.py](code/123.py)
   * [124-pickle.py](code/124.py)
   * [125-json.py](code/125.py)
+  * [126-keys-values.py](code/126.py)
   
 ### Project
   * [001-game.py](Project/001.py)

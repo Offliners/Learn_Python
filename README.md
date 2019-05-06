@@ -124,6 +124,7 @@
   * [122-sys.py](code/122.py)
   * [123-stderr.py](code/123.py)
   * [124-pickle.py](code/124.py)
+  * [125-json.py](code/125.py)
   
 ### Project
   * [001-game.py](Project/001.py)

@@ -8,6 +8,7 @@ def f():
         return 0
     finally:
         print("finally")
+        # the finally block will work
     print("Return") # will not be printed
     return 1
 

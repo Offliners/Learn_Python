@@ -127,6 +127,9 @@
   * [125-json.py](code/125.py)
   * [126-keys-values.py](code/126.py)
   * [127-finally.py](code/127.py)
+  * [128-push-pop.py](code/128.py)
+  * [129-closure.py](code/129.py)
+  * [130-custom-iterator.py](code/130.py)
   
 ### Project
   * [001-game.py](Project/001.py)

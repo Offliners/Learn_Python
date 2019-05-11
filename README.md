@@ -130,6 +130,8 @@
   * [128-push-pop.py](code/128.py)
   * [129-closure.py](code/129.py)
   * [130-custom-iterator.py](code/130.py)
+  * [131-custom-iterator2.py](code/131.py)
+  * [132-custom-iterator3.py](code/132.py)
   
 ### Project
   * [001-game.py](Project/001.py)

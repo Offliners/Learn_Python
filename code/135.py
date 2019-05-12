@@ -1,4 +1,5 @@
 # removing accents from characters
+# need to pip install unidecode
 
 import unidecode
 

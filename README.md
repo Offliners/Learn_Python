@@ -135,6 +135,7 @@
   * [133-exception-message.py](code/133.py)
   * [134-rotate-list.py](code/134.py)
   * [135-remove-accents.py](code/135.py)
+  * [136-remove-duplictes-list.py](code/136.py)
   
 ### Project
   * [001-game.py](Project/001.py)

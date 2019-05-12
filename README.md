@@ -134,6 +134,7 @@
   * [132-custom-exception.py](code/132.py)
   * [133-exception-message.py](code/133.py)
   * [134-rotate-list.py](code/134.py)
+  * [135-remove-accents.py](code/135.py)
   
 ### Project
   * [001-game.py](Project/001.py)

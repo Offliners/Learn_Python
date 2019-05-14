@@ -84,6 +84,7 @@
   * [082-echo-try.py](code/082.py)
   * [083-read-file.py](code/083.py)
   * [084-import-vs-local.py](code/084.py)
+   * [mylib.py](code/mylib.py)
   * [085-random-hist.py](code/085.py)
   * [086-class.py](code/086.py)
   * [087-class-name.py](code/087.py)

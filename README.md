@@ -156,6 +156,7 @@
   * [010-findpowerset.py](Project/010.py)
   * [011-bubblesort.py](Project/011.py)
   * [012-selectionsort.py](Project/012.py)
+  * [013-insertionsort.py](Project/013.py)
 
 ## IDE
  * Visual stdio code : https://code.visualstudio.com/download

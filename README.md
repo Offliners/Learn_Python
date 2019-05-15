@@ -142,6 +142,10 @@
   * [139-iter-for.py](code/139.py)
   * [140-main-test.py](code/140.py)
       * [testme.py](code/testme.py)
+  * [141-fib.py](code/141.py)
+  * [142-dit-get.py](code/142.py)
+  * [143-ternary.py](code/143.py)
+  * [144-ternary2.py](code/144.py)
   
 ### Project
   * [001-game.py](Project/001.py)

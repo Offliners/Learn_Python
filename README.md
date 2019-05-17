@@ -146,6 +146,11 @@
   * [142-dit-get.py](code/142.py)
   * [143-ternary.py](code/143.py)
   * [144-ternary2.py](code/144.py)
+  * [145-for-for-break.py](code/145.py)
+  * [146-function-args.py](code/146.py)
+  * [147-enumerate.py](code/147.py)
+  * [148-kwargs.py](code/148.py)
+  * [149-args-order.py](code/149.py)
   
 ### Project
   * [001-game.py](Project/001.py)

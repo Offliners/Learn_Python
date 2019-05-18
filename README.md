@@ -151,6 +151,9 @@
   * [147-enumerate.py](code/147.py)
   * [148-kwargs.py](code/148.py)
   * [149-args-order.py](code/149.py)
+  * [150-map.py](code/150.py)
+  * [151-set-methods.py](code/151.py)
+  * [152-add-any.py](code/152.py)
   
 ### Project
   * [001-game.py](Project/001.py)

@@ -154,6 +154,7 @@
   * [150-map.py](code/150.py)
   * [151-set-methods.py](code/151.py)
   * [152-add-any.py](code/152.py)
+  * [153-unicode-digits.py](code/153.py)
   
 ### Project
   * [001-game.py](Project/001.py)

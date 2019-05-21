@@ -155,6 +155,11 @@
   * [151-set-methods.py](code/151.py)
   * [152-add-any.py](code/152.py)
   * [153-unicode-digits.py](code/153.py)
+  * [154-compile-re.py](code/154.py)
+  * [155-map-comprehension.py](code/155.py)
+  * [156-for-else.py](code/156.py)
+  * [157-dir.py](code/157.py)
+  * [158-pprint.py](code/158.py)
   
 ### Project
   * [001-game.py](Project/001.py)

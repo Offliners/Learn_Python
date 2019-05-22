@@ -161,6 +161,7 @@
   * [157-dir.py](code/157.py)
   * [158-pprint.py](code/158.py)
   * [159-id.py](code/159.py)
+  * [160-python-2vs3.py](code/160.py)
   
 ### Project
   * [001-game.py](Project/001.py)

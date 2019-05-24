@@ -162,6 +162,11 @@
   * [158-pprint.py](code/158.py)
   * [159-id.py](code/159.py)
   * [160-python-2vs3.py](code/160.py)
+  * [161-lru-cache.py](code/161.py)
+  * [162-len.py](code/162.py)
+  * [163-filter.py](code/163.py)
+  * [164-writeline.py](code/163.py)
+  * [165-filter-comprehension.py](code/164.py) 
   
 ### Project
   * [001-game.py](Project/001.py)

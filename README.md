@@ -165,7 +165,7 @@
   * [161-lru-cache.py](code/161.py)
   * [162-len.py](code/162.py)
   * [163-filter.py](code/163.py)
-  * [164-writeline.py](code/163.py)
+  * [164-writelines.py](code/163.py)
   * [165-filter-comprehension.py](code/164.py) 
   
 ### Project

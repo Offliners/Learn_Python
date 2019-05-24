@@ -8,6 +8,6 @@ print(len(string)) # length in characters
 print(len(string.encode("utf-8")))
 # length in bytes (if it is UTF-8)
 
-Output:
-6
-16
+# Output:
+# 6
+# 16

@@ -167,6 +167,14 @@
   * [163-filter.py](code/163.py)
   * [164-writelines.py](code/163.py)
   * [165-filter-comprehension.py](code/164.py) 
+  * [166-filter.py](code/166.py)
+  * [167-raw-string.py](code/167.py)
+  * [168-long-string.py](code/168.py)
+  * [169-frozenset.py](code/169.py)
+  * [170-short-cut.py](code/170.py)
+  * [171-async-def.py](code/171.py)
+  * [172-decorator.py](code/172.py)
+  * [173-strip.py](code/173.py)
   
 ### Project
   * [001-game.py](Project/001.py)

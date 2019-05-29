@@ -175,6 +175,8 @@
   * [171-async-def.py](code/171.py)
   * [172-decorator.py](code/172.py)
   * [173-strip.py](code/173.py)
+  * [174-strip2.py](code/174.py)
+  * [175-strip3.py](code/175.py)
   
 ### Project
   * [001-game.py](Project/001.py)

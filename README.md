@@ -180,6 +180,7 @@
   * [176-iter-dict.py](code/176.py)
   * [177-for-for.py](code/177.py)
   * [178-memcached-set.py](code/178.py)
+      * [178-get.py](code/178-get.py)
   * [179-decor-decor.py](code/179.py)
   * [180-str-char-nums.py](code/180.py)
   

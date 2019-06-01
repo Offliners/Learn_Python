@@ -177,6 +177,11 @@
   * [173-strip.py](code/173.py)
   * [174-strip2.py](code/174.py)
   * [175-strip3.py](code/175.py)
+  * [176-iter-dict.py](code/176.py)
+  * [177-for-for.py](code/177.py)
+  * [178-memcached-set.py](code/178.py)
+  * [179-decor-decor.py](code/179.py)
+  * [180-str-char-nums.py](code/180.py)
   
 ### Project
   * [001-game.py](Project/001.py)

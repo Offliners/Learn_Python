@@ -183,6 +183,8 @@
       * [178-get.py](code/178-get.py)
   * [179-decor-decor.py](code/179.py)
   * [180-str-char-nums.py](code/180.py)
+  * [181-unicode-name.py](code/181.py)
+  * [182-unicode-normalize.py](code/182.py)
   
 ### Project
   * [001-game.py](Project/001.py)

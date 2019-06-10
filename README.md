@@ -186,6 +186,16 @@
   * [181-unicode-name.py](code/181.py)
   * [182-unicode-normalize.py](code/182.py)
   * [183-unicode-normalize2.py](code/183.py)
+  * [184-loooong-int.py](code/184.py)
+  * [185-int-bit-length.py](code/185.py)
+  * [186-list-remove-item.py](code/186.py)
+  * [187-list-remove-all.py](code/187.py)
+  * [188-list-copy.py](code/188.py)
+  * [189-tuple-comma.py](code/189.py)
+  * [190-find-pos.py](code/190.py)
+  * [191-file-size.py](code/191.py)
+  * [192-file-exists.py](code/192.py)
+  * [193-polymorph.py](code/193.py)
   
 ### Project
   * [001-game.py](Project/001.py)

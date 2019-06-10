@@ -196,6 +196,13 @@
   * [191-file-size.py](code/191.py)
   * [192-file-exists.py](code/192.py)
   * [193-polymorph.py](code/193.py)
+  * [194-super.py](code/194.py)
+  * [195-split-nums-words.py](code/195.py)
+  * [196-str-to-int.py](code/196.py)
+  * [197-find-missing-number.py](code/197.py)
+  * [198-find-missing-number-2.py](code/198.py)
+  * [199-min-max.py](code/199.py)
+  * [200-find-dup-number.py](code/200.py)
   
 ### Project
   * [001-game.py](Project/001.py)

@@ -203,6 +203,8 @@
   * [198-find-missing-number-2.py](code/198.py)
   * [199-min-max.py](code/199.py)
   * [200-find-dup-number.py](code/200.py)
+  * [201-count-capitals.py](code/201.py)
+  * [202-transpose-matrix.py](code/202.py)
   
 ### Project
   * [001-game.py](Project/001.py)

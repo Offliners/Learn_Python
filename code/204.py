@@ -8,9 +8,9 @@ s = "Hello, World! This is a string."
 
 # sub = substitute
 
-s2 = re.sub("[^aeiouAEIOU]+"," ",s) # vowels and a space replace with nothing
+s2 = re.sub("[^aeiouAEIOU ]+","",s) # vowels and a space replace with nothing
 
 print(s2)
 
 # Output:
-# e o o i i a i
+# eo o i i a i

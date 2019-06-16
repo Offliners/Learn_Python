@@ -205,6 +205,14 @@
   * [200-find-dup-number.py](code/200.py)
   * [201-count-capitals.py](code/201.py)
   * [202-transpose-matrix.py](code/202.py)
+  * [203-isbinary.py](code/203.py)
+  * [204-keep-vowels.py](code/204.py)
+  * [205-define-add.py](code/205.py)
+  * [206-define-add-2.py](code/206.py)
+  * [207-walrus.py](code/207.py)
+  * [208-f-string-eq.py](code/208.py)
+  * [209-math-prod.py](code/209.py)
+  * [210-math-factorial.py](code/210.py)
   
 ### Project
   * [001-game.py](Project/001.py)
@@ -223,7 +231,6 @@
 
 ## IDE
  * Visual stdio code : https://code.visualstudio.com/download
- * Python Version : `3.6.8`
  
 ## Reference 
 https://www.instagram.com/amazing_python3/

@@ -7,3 +7,7 @@ x = 10
 y = 20
 print(f"{x + y = }")
 print(f"{math.sin(math.pi/2)=}")
+
+# Output:
+# x + y = 30
+# math.sin(math.pi/2)=1.0

@@ -213,6 +213,8 @@
   * [208-f-string-eq.py](code/208.py)
   * [209-math-prod.py](code/209.py)
   * [210-math-factorial.py](code/210.py)
+  * [211-leap-year.py](code/211.py)
+  * [212-diff-dates.py](code/212.py)
   
 ### Project
   * [001-game.py](Project/001.py)

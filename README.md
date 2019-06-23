@@ -215,6 +215,18 @@
   * [210-math-factorial.py](code/210.py)
   * [211-leap-year.py](code/211.py)
   * [212-diff-dates.py](code/212.py)
+  * [213-no-positional.py](code/213.py)
+  * [214-reverse-number.py](code/214.py)
+  * [215-number-of-digits.py](code/215.py)
+  * [216-armstrong-number.py](code/216.py)
+  * [217-triangle-area.py](code/217.py)
+  * [218-triangle-area-2.py](code/218.py)
+  * [219-count-letters.py](code/219.py)
+  * [220-recursive-sum.py](code/220.py)
+  * [221-server.py](code/221.py)
+  * [222-bubble-sort.py](code/222.py)
+  * [223-quick-sort.py](code/223.py)
+  * [224-password.py](code/224.py)
   
 ### Project
   * [001-game.py](Project/001.py)

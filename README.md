@@ -227,6 +227,8 @@
   * [222-bubble-sort.py](code/222.py)
   * [223-quick-sort.py](code/223.py)
   * [224-password.py](code/224.py)
+  * [225-tempfile.py](code/225.py)
+  * [226-uuid.py](code/226.py)
   
 ### Project
   * [001-game.py](Project/001.py)

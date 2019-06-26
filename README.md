@@ -230,6 +230,8 @@
   * [225-tempfile.py](code/225.py)
   * [226-uuid.py](code/226.py)
   * [227-uuid1vs4.py](code/227.py)
+  * [228-mul2.py](code/228.py)
+  * [229-reverse-sentence.py](code/229.py)
   
 ### Project
   * [001-game.py](Project/001.py)

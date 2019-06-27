@@ -232,6 +232,8 @@
   * [227-uuid1vs4.py](code/227.py)
   * [228-mul2.py](code/228.py)
   * [229-reverse-sentence.py](code/229.py)
+  * [230-double-space.py](code/230.py)
+  * [231-calculator.py](code/231.py)
   
 ### Project
   * [001-game.py](Project/001.py)

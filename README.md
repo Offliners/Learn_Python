@@ -234,6 +234,7 @@
   * [229-reverse-sentence.py](code/229.py)
   * [230-double-space.py](code/230.py)
   * [231-calculator.py](code/231.py)
+  * [232-ctrl-c.py](code/232.py)
   
 ### Project
   * [001-game.py](Project/001.py)

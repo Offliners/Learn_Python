@@ -235,6 +235,9 @@
   * [230-double-space.py](code/230.py)
   * [231-calculator.py](code/231.py)
   * [232-ctrl-c.py](code/232.py)
+  * [233-image-size.py](code/233.py)
+  * [234-histogram-random.py](code/234.py)
+  * [235-avg.py](code/235.py)
   
 ### Project
   * [001-game.py](Project/001.py)

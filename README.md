@@ -238,6 +238,8 @@
   * [233-image-size.py](code/233.py)
   * [234-histogram-random.py](code/234.py)
   * [235-avg.py](code/235.py)
+  * [236-default.py](code/236.py)
+  * [237-statistic-mean.py](code/237.py)
   
 ### Project
   * [001-game.py](Project/001.py)

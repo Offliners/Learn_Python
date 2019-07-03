@@ -240,6 +240,9 @@
   * [235-avg.py](code/235.py)
   * [236-default.py](code/236.py)
   * [237-statistic-mean.py](code/237.py)
+  * [238-statistic-median.py](code/238.py)
+  * [239-fraction.py](code/239.py)
+  * [240-fraction-pi.py](code/240.py)
   
 ### Project
   * [001-game.py](Project/001.py)

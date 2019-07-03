@@ -1,4 +1,4 @@
-# Learn Python
+# Python Practice
 ### Code
   * [001-helloworld](code/001.py)
   * [002-variable](code/002.py)

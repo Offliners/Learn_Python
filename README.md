@@ -243,6 +243,8 @@
   * [238-statistic-median.py](code/238.py)
   * [239-fraction.py](code/239.py)
   * [240-fraction-pi.py](code/240.py)
+  * [241-compare-files.py](code/241.py)
+  * [242-file-getline-n.py](code/242.py)
   
 ### Project
   * [001-game.py](Project/001.py)

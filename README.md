@@ -245,6 +245,8 @@
   * [240-fraction-pi.py](code/240.py)
   * [241-compare-files.py](code/241.py)
   * [242-file-getline-n.py](code/242.py)
+  * [243-weekday-today.py](code/243.py)
+  * [244-monte-carlo.py](code/244.py)
   
 ### Project
   * [001-game.py](Project/001.py)

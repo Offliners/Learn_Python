@@ -247,6 +247,7 @@
   * [242-file-getline-n.py](code/242.py)
   * [243-weekday-today.py](code/243.py)
   * [244-monte-carlo.py](code/244.py)
+  * [245-gauss-number.py](code/245.py)
   
 ### Project
   * [001-game.py](Project/001.py)

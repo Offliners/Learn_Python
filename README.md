@@ -248,6 +248,14 @@
   * [243-weekday-today.py](code/243.py)
   * [244-monte-carlo.py](code/244.py)
   * [245-gauss-number.py](code/245.py)
+  * [246-count-bits.py](code/246.py)
+  * [247-spell-number.py](code/247.py)
+  * [248-shuffle.py](code/248.py)
+  * [249-inc-all.py](code/249.py)
+  * [250-inc-all-2.py](code/250.py)
+  * [251-add-lists.py](code/251.py)
+  * [252-sort-by-value.py](code/252.py)
+  * [253-eratosthenes-sieve.py](code/253.py)
   
 ### Project
   * [001-game.py](Project/001.py)

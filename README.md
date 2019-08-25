@@ -257,6 +257,7 @@
   * [252-sort-by-value.py](code/252.py)
   * [253-eratosthenes-sieve.py](code/253.py)
   * [254-list-tuple.py](code/254.py)
+  * [255-select-with-negative.py](code/255.py)
   
 ### Project
   * [001-game.py](Project/001.py)

@@ -8,5 +8,5 @@ data2 = [list(a) for a in data] # "a" was a tuple here
 
 print(data2)
 
-# Output
+# Output:
 # [[3, 4], [7, 8], [100, 200]]

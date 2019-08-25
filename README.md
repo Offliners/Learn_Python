@@ -256,6 +256,7 @@
   * [251-add-lists.py](code/251.py)
   * [252-sort-by-value.py](code/252.py)
   * [253-eratosthenes-sieve.py](code/253.py)
+  * [254-list-tuple.py](ocde/254.py)
   
 ### Project
   * [001-game.py](Project/001.py)
